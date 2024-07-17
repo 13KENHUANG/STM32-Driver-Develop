@@ -11,6 +11,7 @@
 - [ ] I2C
 - [ ] USART
 ## Implementation
+*參考手冊規範上所提供的暫存器位址資訊，暫存器資訊，編寫相關.h及.c檔，並利用define
 ### GPI0 struct
 ```
 typedef struct
